@@ -100,10 +100,9 @@ public CachingMechanism hazelcastCachingMechanism(HazelcastInstance hazelcastIns
 ```
 
 
-##Examples from PostMan
+## **Examples from PostMan**
 
-When market=tanzania
-so hazelcast bean is instantiated
+### **When market=tanzania so hazelcast bean is instantiated**
 <img width="593" alt="Screenshot 2025-04-13 at 9 14 24 PM" src="https://github.com/user-attachments/assets/091514e5-08c2-4ad2-974e-eb3a06312f70" />
 
 <img width="593" alt="Screenshot 2025-04-13 at 9 14 38 PM" src="https://github.com/user-attachments/assets/8fec34c8-ad96-499d-848d-a27a64f173b8" />
@@ -111,7 +110,7 @@ so hazelcast bean is instantiated
 <img width="593" alt="Screenshot 2025-04-13 at 9 14 50 PM" src="https://github.com/user-attachments/assets/0c9fc450-d46c-48d9-a3cb-158ad00f0d10" />
 
 
-When market=Egypt
+### **When market=Egypt so redis bean is instantiated**
 
 <img width="593" alt="Screenshot 2025-04-13 at 9 21 27 PM" src="https://github.com/user-attachments/assets/6f492521-37d5-4fa7-99ec-47301a3eef2c" />
 
