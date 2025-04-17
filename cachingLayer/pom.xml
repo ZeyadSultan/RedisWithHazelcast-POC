@@ -43,7 +43,11 @@
 			<groupId>com.hazelcast</groupId>
 			<artifactId>hazelcast</artifactId>
 		</dependency>
-
+		<dependency>
+			<groupId>com.wit.mpesa</groupId>
+			<artifactId>mpesa-common-logs-lib</artifactId>
+			<version>9.24.0</version>
+		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>

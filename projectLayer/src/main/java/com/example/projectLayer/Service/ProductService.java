@@ -6,8 +6,6 @@ import jakarta.annotation.PostConstruct;
 import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Service;
 
-import java.util.Arrays;
-
 @Service
 public class ProductService {
 
@@ -40,5 +38,4 @@ public class ProductService {
             System.out.println(beanName);
         }
     }
-
 }

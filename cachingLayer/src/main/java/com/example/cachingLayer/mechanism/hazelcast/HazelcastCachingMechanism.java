@@ -1,5 +1,6 @@
-package com.example.cachingLayer.mechanism;
+package com.example.cachingLayer.mechanism.hazelcast;
 
+import com.example.cachingLayer.mechanism.CachingMechanism;
 import com.hazelcast.map.IMap;
 
 public class HazelcastCachingMechanism extends CachingMechanism {

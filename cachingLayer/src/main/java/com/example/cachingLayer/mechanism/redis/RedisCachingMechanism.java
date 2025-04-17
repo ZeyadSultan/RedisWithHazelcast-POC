@@ -1,5 +1,6 @@
-package com.example.cachingLayer.mechanism;
+package com.example.cachingLayer.mechanism.redis;
 
+import com.example.cachingLayer.mechanism.CachingMechanism;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
 

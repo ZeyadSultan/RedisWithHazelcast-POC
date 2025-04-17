@@ -7,14 +7,29 @@
       <option name="url" value="https://repo.maven.apache.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="jFrog-Releases" />
+      <option name="name" value="jFrog-Releases" />
+      <option name="url" value="https://artifactory.m-pesa.com/artifactory/generic-digital-superapp-local/superapp/internal/smartphone-releases" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="jFrog-External" />
+      <option name="name" value="jFrog-External" />
+      <option name="url" value="https://artifactory.m-pesa.com/artifactory/generic-digital-superapp-local/superapp/external" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jFrog-Snapshots" />
+      <option name="name" value="jFrog-Snapshots" />
+      <option name="url" value="https://artifactory.m-pesa.com/artifactory/generic-digital-superapp-local/superapp/internal/smartphone-snapshots" />
     </remote-repository>
   </component>
 </project>
